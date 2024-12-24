@@ -1,7 +1,4 @@
 commit 1
 commit 2
-<<<<<<< HEAD
 commit 3
 Commit 4
-=======
->>>>>>> parent of 2d3ff67 (Merge branch 'sub-dev' into dev)
