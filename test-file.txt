@@ -1,5 +1,8 @@
 commit 1
 commit 2
 commit 3
+<<<<<<< HEAD
 Commit 4
 Commit 5
+=======
+>>>>>>> parent of 4e7c51b (commit4)
