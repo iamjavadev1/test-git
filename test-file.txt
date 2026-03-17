@@ -4,10 +4,5 @@ commit 3
 Commit 4
 Commit 5
 
-
 commit from branch test-2 #1
 commit from branch test-2 #2
-
-commit at test-1 #1
-commit at test-1 #2
-
